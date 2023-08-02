@@ -1,0 +1,10 @@
+{
+	"name": "testcaseVnet-testwesleyrabocase1-pe",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/619ebd19-9b97-466d-ba19-d85e7ccd4fce/resourceGroups/testcase-rg/providers/Microsoft.Sql/servers/testwesleyrabocase1",
+		"groupId": "sqlServer",
+		"fqdns": [
+			"testwesleyrabocase1.database.windows.net"
+		]
+	}
+}
